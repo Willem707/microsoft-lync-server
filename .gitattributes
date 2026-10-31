@@ -1,0 +1,13 @@
+# See https://github.com/github/linguist
+# Text file normalization
+vendor/* linguist-vendored
+*.py linguist-detectable
+*.map linguist-generated
+*.gif binary
+*.woff2 binary
+**/*.py linguist-detectable
+public/* linguist-vendored
+
+*.jpg binary
+*.html linguist-vendored
+# eof d68f4e65
