@@ -1,0 +1,7 @@
+.coverage
+htmlcov/
+build/
+.pytest_cache/
+venv/
+.tox/
+.mypy_cache/
